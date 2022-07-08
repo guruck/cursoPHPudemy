@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #298a08;
+}
+
+.quem-somos {
+  background-color: #8181f7;
+}
+
+.margin {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.logo {
+  width: 220px;
+  height: 80px;
+}
+
+#quemsomos div img {
+  width: 400px;
+  height: 200px;
+}
+
+#parceiros {
+  background-color: darkturquoise;
+}
+
+#servicos {
+  background-color: gray;
+}
